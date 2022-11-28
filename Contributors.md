@@ -2101,6 +2101,7 @@ nowy wpis
 - [Tran Minh Thang](https://github.com/mccor2000)
 - [Deepank Pushpad](https://github.com/DeepankRx)
 - [Julie Heard](https://github.com/julieheard)
+- [Jst Vex] (https://github.com/JstVex)
 - [Kris Mandanka](https://github.com/krismandanka)
 - 
 - [Siddhesh Dandekar](https://github.com/Siddhesh-Dandekar)
